@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Task5 {
     Task5(){
-        System.out.println("Task 5");
+        System.out.println("\nTask 5");
 
         // Get random values
         Random random = new Random();

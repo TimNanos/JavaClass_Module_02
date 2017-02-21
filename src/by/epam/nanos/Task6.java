@@ -9,7 +9,7 @@ public class Task6 {
         double b;
         double c;
 
-        System.out.println("Task 6");
+        System.out.println("\nTask 6");
 
         Random random = new Random();
         a = random.nextDouble();

@@ -7,7 +7,7 @@ public class Task4 {
     private double leg2;
 
     public Task4(){
-        System.out.println("Task 4");
+        System.out.println("\nTask 4");
 
         // Get random triangle
         Random rand = new Random();
