@@ -8,5 +8,7 @@ public class Main {
         Task3.print();
         new Task4();
         new Task5();
+        new Task6();
+        new Task7();
     }
 }
