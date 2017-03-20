@@ -1,7 +1,7 @@
 package by.epam.nanos;
 
 public class Task15 {
-    static final double a = 0.0;
+    static final double a = 0.0;// не теряем атрибуты доступа
     static final double b = 1.0;
     static final double h = 0.1;
 
