@@ -5,7 +5,8 @@ import java.util.Random;
 public class Task10 {
     private static final int maxNumberAmount = 10;
 
-    Task10(){
+    // и не теряем атрибуты доступа, даже у конструктора
+    Task10(){// не решаем задачи, используя конструкторы!!! она для инициализации объектов
         System.out.println("\nTask 10");
 
         Random random = new Random();
